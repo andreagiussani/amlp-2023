@@ -5,8 +5,9 @@ This course is held by Andrea Giussani, Academic Fellow in Computer Science.
 You can reach him out either at [:email:](andrea.giussani@unibocconi.it) or on [Linkedin](https://it.linkedin.com/in/andrea-giussani).
 
 ## Repository Structure
- - `online_material`: in this folder, you can find external links that might help you in better understading the material.
- - `papers`: in this folder, you find relevant papers on Machine Learning.
+ - `online_material`: in this folder, you will find external links that might help you in better understading the material.
+ - `papers`: in this folder, you will find relevant papers on Machine Learning.
+ - `class material`: in this folder, you will be available to investigate the class material.
 
 ## Setting Up the Google Colab Environment
 
