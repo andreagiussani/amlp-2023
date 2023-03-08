@@ -23,3 +23,4 @@ I have a few thesis ideas on this topic. Please drop me a line if interested.
 ## Shap Values
 
 - Original paper by Lundberg and Lee (2017) [here](https://arxiv.org/pdf/1705.07874.pdf).
+- Link to Github [here](https://github.com/slundberg/shap).
